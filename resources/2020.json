@@ -1,0 +1,68 @@
+{
+    "single": {
+        "deduction": 12400,
+        "brackets": [
+            {
+                "rate": 10,
+                "base" : 0
+            },
+            {
+                "rate": 12,
+                "base" : 9875
+            },
+            {
+                "rate": 22,
+                "base" : 40125
+            },
+            {
+                "rate": 24,
+                "base" : 85525
+            },
+            {
+                "rate": 32,
+                "base" : 163300
+            },
+            {
+                "rate": 35,
+                "base" : 207350
+            },
+            {
+                "rate": 37,
+                "base" : 518400
+            }
+        ]
+    },
+    "married": {
+        "deduction": 24800,
+        "brackets": [
+            {
+                "rate": 10,
+                "base" : 0
+            },
+            {
+                "rate": 12,
+                "base" : 19750
+            },
+            {
+                "rate": 22,
+                "base" : 80250
+            },
+            {
+                "rate": 24,
+                "base" : 171050
+            },
+            {
+                "rate": 32,
+                "base" : 326600
+            },
+            {
+                "rate": 35,
+                "base" : 414700
+            },
+            {
+                "rate": 37,
+                "base" : 622050
+            }
+        ]
+    }
+}
